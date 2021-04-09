@@ -1,4 +1,4 @@
-Find out more about on [this page](https://cgarbin.github.io/).
+Find out more about on [this page](https://cgarbin.github.io/about/).
 
 <!---
 cgarbin/cgarbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
