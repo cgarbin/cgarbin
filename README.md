@@ -1,4 +1,4 @@
-Software architect, developer, machine learning Ph.D. candidate.
+Software engineer, machine learning Ph.D. candidate.
 
 More about me on [this page](https://cgarbin.github.io/about/).
 
